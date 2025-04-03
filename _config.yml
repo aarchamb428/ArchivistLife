@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: Tour of Ireland - 2024 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A photo tour of Ireland in June 2024
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Our family took a 10-day tour of Ireland in June of 2024.  This is a few highlights from our vacation."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Amy Archambault
 
