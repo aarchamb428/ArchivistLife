@@ -14,14 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Welcome to our family's tour of Ireland! In June of 2024, we had a lovely visit to the Emerald Isle.  This collection highlights some of the amazing history, scenery and culture of our trip.  We started in Dublin and worked our way to the southeastern side of the country, stopping in Galway first and then traversing back across the island to Waterford.  We made a complete loop and ended the tour back in Dublin.  We hope this inspires you to take your own trip of Ireland!
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
